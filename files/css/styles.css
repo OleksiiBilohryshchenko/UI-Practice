@@ -12,6 +12,20 @@ p{
     font-family: "Apple Braille";
     color: #03317c;
 }
-#signup{
-    background-color: chartreuse;
+/*#signup{*/
+/*    background-color: chartreuse;*/
+/*}*/
+.btn1{
+    background-color: #04fc04;
+    font-size: 25px;
+}
+
+/*.btnFont{*/
+/*    font-family: "Droid Sans";*/
+/*}*/
+
+
+.btn1:hover {
+    background-color: #027a02;
+    font-size: 25px;
 }
